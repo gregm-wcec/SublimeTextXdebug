@@ -6,6 +6,7 @@ Helper module for Python version 3.0 and above
 - Exception handling (except Exception as e)
 """
 
+
 import base64
 from urllib.parse import unquote;
 from urllib.parse import quote;
